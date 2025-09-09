@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5GtxSGg5)
 # JavaScript - arrays: oppgaver
 
 Her er det fem oppgaver du kan velge i. Velg deg ut tre oppgaver du ønsker å jobbe med. Noen er litt vanskelig, mens andre er litt lettere. Prøv å utfordre deg selv!
